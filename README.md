@@ -26,12 +26,12 @@ Table of Contents
 Python version: 3.7
 
 ### Code structure
-'dataset' folder - contains dataloaders, list of train and validation images <br>
-'model' folder - contains code for the network architectures <br>
-'utils' folder - additional functions <br>
-eval_cs.py - evaluation script for cityscapes <br>
-train_gta2cs_multi_drnd38, train_gta2cs_multi_drnd38 - training script for teacher and undistilled student networks <br>
-train_gta2cs_ts_multi.py - training script for our domain adaptive knowledge distillation network
+'dataset' folder - Contains dataloaders, list of train and validation images <br>
+'model' folder - Contains code for the network architectures <br>
+'utils' folder - Additional functions <br>
+eval_cs.py - Evaluation script for cityscapes <br>
+train_gta2cs_multi_drnd38, train_gta2cs_multi_drnd38 - Training script for teacher and undistilled student networks <br>
+train_gta2cs_ts_multi.py - Training script for our domain adaptive knowledge distillation network
 
 ### Datasets
 * [**CityScapes**](https://www.cityscapes-dataset.com/) 
@@ -47,7 +47,7 @@ matplotlib <br>
 ## Our network
 
 <p align="center">
-<img src="network.jpg">
+<img src="network.png">
 </p>
 
 ## Acknowledgements
