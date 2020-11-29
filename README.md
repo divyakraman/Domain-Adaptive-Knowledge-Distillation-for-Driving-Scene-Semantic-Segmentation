@@ -26,12 +26,16 @@ Table of Contents
 Python version: 3.7
 
 ### Code structure
+
+**Dataoaders** - The dataloaders can be found in the 'dataset' folder, along with the image lists.<br>
 'dataset' folder - Contains dataloaders, list of train and validation images <br>
-'model' folder - Contains code for the network architectures <br>
-'utils' folder - Additional functions <br>
-eval_cs.py - Evaluation script for cityscapes <br>
+**Models**  - Contains code for the network architectures <br>
+**Utils** - Contains code for the cross entropy loss function
+#### Training
 train_gta2cs_multi_drnd38, train_gta2cs_multi_drnd22 - Training script for teacher and undistilled student networks <br>
-train_gta2cs_ts_multi.py - Training script for our domain adaptive knowledge distillation network
+train_gta2cs_ts_multi.py - Training script for the domain adaptive knowledge distillation network <br>
+#### Evaluation
+eval_cs.py - Contains the evaluation script for cityscapes <br>
 
 ### Datasets
 * [**CityScapes**](https://www.cityscapes-dataset.com/) 
@@ -39,10 +43,10 @@ train_gta2cs_ts_multi.py - Training script for our domain adaptive knowledge dis
 * [**GTA5**](https://download.visinf.tu-darmstadt.de/data/from_games/) 
 
 ### Dependencies
-pytorch <br>
-numpy <br>
-scipy <br>
-matplotlib <br>
+PyTorch <br>
+NumPy <br>
+SciPy <br>
+Matplotlib <br>
 
 ## Our network
 
