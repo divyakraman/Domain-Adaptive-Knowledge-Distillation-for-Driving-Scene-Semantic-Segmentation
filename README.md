@@ -30,7 +30,7 @@ Python version: 3.7
 'model' folder - Contains code for the network architectures <br>
 'utils' folder - Additional functions <br>
 eval_cs.py - Evaluation script for cityscapes <br>
-train_gta2cs_multi_drnd38, train_gta2cs_multi_drnd38 - Training script for teacher and undistilled student networks <br>
+train_gta2cs_multi_drnd38, train_gta2cs_multi_drnd22 - Training script for teacher and undistilled student networks <br>
 train_gta2cs_ts_multi.py - Training script for our domain adaptive knowledge distillation network
 
 ### Datasets
@@ -47,7 +47,7 @@ matplotlib <br>
 ## Our network
 
 <p align="center">
-<img src="network.png">
+<img src="figures/network.png">
 </p>
 
 ## Acknowledgements
