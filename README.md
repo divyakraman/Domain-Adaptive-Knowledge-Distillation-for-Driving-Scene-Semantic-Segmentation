@@ -28,7 +28,6 @@ Python version: 3.7
 ### Code structure
 
 **Dataoaders** - The dataloaders can be found in the 'dataset' folder, along with the image lists.<br>
-'dataset' folder - Contains dataloaders, list of train and validation images <br>
 **Models**  - Contains code for the network architectures <br>
 **Utils** - Contains code for the cross entropy loss function
 #### Training
