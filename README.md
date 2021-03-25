@@ -3,11 +3,11 @@
 Please cite our paper if you find it useful.
 
 ```
-@article{kothandaraman2020unsupervised,
-  title={Unsupervised Domain Adaptive Knowledge Distillation for Semantic Segmentation},
+@inproceedings{kothandaramandomain,
+  title={Domain Adaptive Knowledge Distillation for Driving Scene Semantic Segmentation},
   author={Kothandaraman, Divya and Nambiar, Athira and Mittal, Anurag},
-  journal={arXiv preprint arXiv:2011.08007},
-  year={2020}
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={134--143}
 }
 ```
 
