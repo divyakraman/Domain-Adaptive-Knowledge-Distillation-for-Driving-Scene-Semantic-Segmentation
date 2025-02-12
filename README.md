@@ -1,4 +1,4 @@
-### Paper - [**Domain Adaptive Knowledge Distillation for Driving Scene Semantic Segmentation**](https://arxiv.org/abs/2011.08007)
+### Paper - [**Domain Adaptive Knowledge Distillation for Driving Scene Semantic Segmentation (WACV Workshops 2021)**](https://arxiv.org/abs/2011.08007)
 
 Please cite our paper if you find it useful.
 
